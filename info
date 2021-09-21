@@ -1,0 +1,4 @@
+Načítání histore z API  --  https://binance-docs.github.io/apidocs/spot/en/#compressed-aggregate-trades-list
+
+
+Načítání ze soketu -- wss://stream.binance.com:9443/ws/btcusdt@kline_1h
